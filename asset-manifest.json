@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/timekeeping/static/css/main.726aa98a.css",
-    "main.js": "/timekeeping/static/js/main.f5d3dd07.js",
+    "main.js": "/timekeeping/static/js/main.e8c9cc19.js",
     "static/js/453.fbdb98a2.chunk.js": "/timekeeping/static/js/453.fbdb98a2.chunk.js",
     "static/media/telephone.jpg": "/timekeeping/static/media/telephone.dfde2eddd6f9e7b67188.jpg",
     "index.html": "/timekeeping/index.html",
     "main.726aa98a.css.map": "/timekeeping/static/css/main.726aa98a.css.map",
-    "main.f5d3dd07.js.map": "/timekeeping/static/js/main.f5d3dd07.js.map",
+    "main.e8c9cc19.js.map": "/timekeeping/static/js/main.e8c9cc19.js.map",
     "453.fbdb98a2.chunk.js.map": "/timekeeping/static/js/453.fbdb98a2.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.726aa98a.css",
-    "static/js/main.f5d3dd07.js"
+    "static/js/main.e8c9cc19.js"
   ]
 }
